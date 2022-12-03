@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/Ps7ch3/Ps7ch3/main/dist/github-contribution-grid-snake.svg">
 
 <!--
 **Ps7ch3/Ps7ch3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

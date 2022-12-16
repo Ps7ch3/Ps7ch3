@@ -36,5 +36,5 @@ jobs:
           git config user.email github-actions@github.com
           cp -r /tmp/dist .
           git add .
-          git commit -m "Trigger auto generate snake"
+          git commit -m "bot: trigger snake auto generation"
           git push
